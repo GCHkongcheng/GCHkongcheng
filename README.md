@@ -1,7 +1,9 @@
 # 👋 Hi, I'm GCHkongcheng
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Build+→+Iterate+→+Ship;AI+Workflow+Explorer;Turning+Ideas+into+Products\&center=true\&size=22)
+
 > 一个朴素的大学生 | 长期折腾项目的人
-> Building ideas → prototypes → real products
+> 🚀 Building ideas → prototypes → real products
 
 ---
 
@@ -10,37 +12,63 @@
 我习惯把想法快速做成原型，再不断迭代成真正能使用的小产品。
 
 * ⚡ 快速从 **灵感 → 原型 → 产品**
-* 🛠️ 热衷折腾各种项目 & 技术实践
+* 🛠️ 热衷折腾项目 & 技术实践
 * 🧠 用 AI 提升学习与开发效率
-* 📦 把经验沉淀为可复用的内容
+* 📦 将经验沉淀为可复用内容
 
 ---
 
 ## 🤖 AI × Workflow
 
-我把 AI 当作“思考放大器”和“效率引擎”：
+我把 AI 当作「思考放大器」和「效率引擎」：
 
 * 🧩 需求拆解 & 方案对比
 * 📝 内容整理 & 知识结构化
 * ⚙️ 自动化流程设计
-* 🚀 加速从 idea 到落地的全过程
+* 🚀 加速 idea → 落地
 
 ---
 
 ## 🧑‍💻 What I'm Doing
 
-* ✍️ 持续写作：开发笔记 & 项目复盘
-* 🔧 维护个人项目，并不断迭代优化
-* 📚 沉淀可复用的方法论与经验
-* 🧪 探索 AI + 个人工作流的更优解
+* ✍️ 写作：开发笔记 & 项目复盘
+* 🔧 维护个人项目并持续迭代
+* 📚 沉淀方法论与可复用经验
+* 🧪 探索 AI + 工作流的高效组合
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Personal Website
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GCHkongcheng&show_icons=true&theme=tokyonight&cache_seconds=60)
+* Blog: https://blog.gchkc.top
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCHkongcheng\&layout=compact\&theme=tokyonight&cache_seconds=60)
+---
+
+## 📌 Featured Projects
+
+> 🚧 持续更新中
+
+| Project             | Description      | Tech            |
+| ------------------- | ---------------- | --------------- |
+| 🚀 linear-algebra-visualizer      | 线性代数工作台 | React / Node    |
+| 🤖 kc-analyzer | 代码分析器     | worker / OpenAI |
+| 📒 MindLink-AI        | AI文献分析工具        | React        |
+
+---
+
+## 📊 Contribution Stats
+
+![Streak](https://streak-stats.demolab.com?user=GCHkongcheng\&theme=tokyonight\&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GCHkongcheng\&theme=tokyo-night\&hide_border=true)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GCHkongcheng\&theme=tokyonight)
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/GCHkongcheng/GCHkongcheng/blob/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
@@ -61,18 +89,18 @@
 
 ---
 
-## 📫 Connect With Me
-
-* ✉️ Email: your_email_here
-* 🧠 也许我们可以一起做点有意思的东西
-
----
-
-## 🧭 Current Focus
+## 🧭 Current Loop
 
 ```text
 Build → Iterate → Reflect → Optimize → Repeat
 ```
+
+---
+
+## 📫 Connect With Me
+
+* 🌐 Website: [blog.gchkc.top](https://blog.gchkc.top)
+* 💬 欢迎一起交流项目 / AI / 工作流
 
 ---
 
