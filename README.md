@@ -38,9 +38,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GCHkongcheng\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=GCHkongcheng&show_icons=true&theme=tokyonight&cache_seconds=60)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCHkongcheng\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GCHkongcheng\&layout=compact\&theme=tokyonight&cache_seconds=60)
 
 ---
 
